@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliaatram" alt="eliaatram" /></a> </p>
 
-- 🌱 I’m currently learning **React Native and Angular**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **react**
 
