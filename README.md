@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elia El Atram</h1>
-<h3 align="center">A passionate frontend developer experienced in React JS</h3>
+<h3 align="center">A passionate Software Engineer experienced in ReactJS/NodeJS/Redux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliaatram&label=Profile%20views&color=0e75b6&style=flat" alt="eliaatram" /> </p>
 
