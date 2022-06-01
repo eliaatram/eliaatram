@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elia El Atram</h1>
-<h3 align="center">A passionate Software Engineer experienced in ReactJS/NodeJS/Redux</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliaatram&label=Profile%20views&color=0e75b6&style=flat" alt="eliaatram" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliaatram" alt="eliaatram" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **technology**
 
 - 📫 How to reach me **eliaatram@outlook.com**
 
