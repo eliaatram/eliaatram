@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **technology**
+- 💬 Ask me about **tech**
 
 - 📫 How to reach me **eliaatram@outlook.com**
 
